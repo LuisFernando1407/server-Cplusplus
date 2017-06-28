@@ -1,0 +1,8 @@
+/Users/luisfernando/Projetos/servidor-so/run/CMakeFiles/test.dir
+/Users/luisfernando/Projetos/servidor-so/run/CMakeFiles/rebuild_cache.dir
+/Users/luisfernando/Projetos/servidor-so/run/CMakeFiles/edit_cache.dir
+/Users/luisfernando/Projetos/servidor-so/run/CMakeFiles/amalgamation.dir
+/Users/luisfernando/Projetos/servidor-so/run/cpp/CMakeFiles/rebuild_cache.dir
+/Users/luisfernando/Projetos/servidor-so/run/cpp/CMakeFiles/edit_cache.dir
+/Users/luisfernando/Projetos/servidor-so/run/cpp/CMakeFiles/test.dir
+/Users/luisfernando/Projetos/servidor-so/run/cpp/CMakeFiles/server.dir

@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ddc891a2a63e40e44826090b5cb31a29 CMakeFiles/amalgamation
+d82d1eb6f45983557a36054af402136c amalgamate/crow_all.h
